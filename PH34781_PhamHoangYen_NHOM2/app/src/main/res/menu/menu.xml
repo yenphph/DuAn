@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/home" android:title="Home" android:icon="@drawable/home"/>
+    <item android:id="@+id/tonkho" android:title="Thong ke san pham ton kho" android:icon="@drawable/inventory"/>
+    <item android:id="@+id/xuatkho" android:title="Thong ke san pham xuat kho" android:icon="@drawable/export"/>
+    <item android:id="@+id/them" android:title="Them thu kho" android:icon="@drawable/plus"/>
+    <item android:id="@+id/bn" android:title="">
+        <menu>
+            <item android:id="@+id/logout" android:title="Log out" android:icon="@drawable/imgr"/>
+        </menu>
+    </item>
+
+</menu>

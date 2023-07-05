@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/toolbar"
+    android:background="#EAD9C1"
+    android:layout_height="70dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:text="Quan ly kho hang"
+            />
+
+</androidx.appcompat.widget.Toolbar>
